@@ -1,4 +1,4 @@
-Great! Here's the updated `README.md` with your contact info and links included:
+Great!
 
 ---
 
